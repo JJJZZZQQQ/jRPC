@@ -1,6 +1,7 @@
 package com.ticknet.jjjzzzqqq.enumeration;
 
 import lombok.AllArgsConstructor;
+import lombok.Data;
 import lombok.Getter;
 
 /**
